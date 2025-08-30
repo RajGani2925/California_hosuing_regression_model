@@ -15,7 +15,7 @@ Visualization: Creating visualizations for model predictions, residuals, and fea
 ⚙️ How to Run
 Clone the repository:
 
-git clone [https://github.com/your-username/RandomForest_Project.git]([https://github.com/your-username/RandomForest_Project.git](https://github.com/RajGani2925/California_hosuing_regression_model.git))
+git clone https://github.com/RajGani2925/California_hosuing_regression_model.git
 cd RandomForest_Project
 
 Install dependencies:
