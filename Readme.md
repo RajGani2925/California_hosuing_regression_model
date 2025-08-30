@@ -15,7 +15,7 @@ Visualization: Creating visualizations for model predictions, residuals, and fea
 ⚙️ How to Run
 Clone the repository:
 
-git clone [https://github.com/your-username/RandomForest_Project.git](https://github.com/your-username/RandomForest_Project.git)
+git clone [https://github.com/your-username/RandomForest_Project.git]([https://github.com/your-username/RandomForest_Project.git](https://github.com/RajGani2925/California_hosuing_regression_model.git))
 cd RandomForest_Project
 
 Install dependencies:
@@ -41,4 +41,5 @@ Aurélien Géron: A massive thank you for the book Hands-On Machine Learning wit
 ChatGPT: For assistance with coding, debugging, and maintaining a sense of humor throughout the process.
 
 📄 License
+
 This project is open-source and available under the MIT License. It is intended for educational purposes and as a personal portfolio piece.
