@@ -15,7 +15,7 @@ Visualization: Creating visualizations for model predictions, residuals, and fea
 ⚙️ How to Run
 Clone the repository:
 
-git clone https://github.com/RajGani2925/California_hosuing_regression_model.git
+git clone [https://github.com/RajGani2925/California_hosuing_regression_model.git](https://github.com/RajGani2925/California_hosuing_regression_model.git)
 cd RandomForest_Project
 
 Install dependencies:
@@ -43,3 +43,4 @@ ChatGPT: For assistance with coding, debugging, and maintaining a sense of humor
 📄 License
 
 This project is open-source and available under the MIT License. It is intended for educational purposes and as a personal portfolio piece.
+
